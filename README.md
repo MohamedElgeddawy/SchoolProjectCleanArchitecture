@@ -13,7 +13,7 @@ A modular backend system built with **ASP.NET Core Web API** following **Clean A
 - ✅ **Testing**: XUnit for reliability  
 
 ### Technologies  
-- ASP.NET Core 6, Entity Framework Core, SQL Server  
+- ASP.NET Core , Entity Framework Core, SQL Server  
 - JWT, Swagger, FluentValidation, AutoMapper  
 - CQRS, MediatR, xUnit  
 
